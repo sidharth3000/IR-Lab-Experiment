@@ -1,0 +1,1 @@
+In linear algebra, the Singular Value Decomposition (SVD) of a matrix is a factorization of that matrix into three matrices. It has some interesting algebraic properties and conveys important geometrical and theoretical insights about linear transformations. Realize a few common questions that non-beginners may ask. Let me address the elephant in the room first. 
